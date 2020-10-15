@@ -1,7 +1,8 @@
 # hipo7-chat-app-boiler-plate
 A boiler plate setup for building a real-time chat application with MEVN stack.  
 
-Clone the repo and run npm install in root directory and in clint as well.
+Clone the repo and run npm install in root directory and in client directory.
+
 All the required dependencies are already installed.
 
 To run frontend => npm run serve in client directory. 
