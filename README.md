@@ -11,7 +11,7 @@ To run the server app => node index.js in root directory.
 
 There are some useful resources in the landing page of the app.
 
-You are recommended to use Buefy as your frontend css framework.
+You are suggested to use Buefy as your frontend css framework.
 The link to Buefy documentation.
 https://buefy.org
 
